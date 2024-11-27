@@ -14,7 +14,7 @@
 OTP 기술 중 질의-응답 방식을 적용하여 일회용 전화번호를 생성한다. 질의-응답 OTP는 사용자가 안심번호 갱신을 원하기 까지 번호가 유지되어야 상대방과 연락이 필요한 상황에 문제가 발생하지 않기 때문에 선정하였다. 따라서 사용자가 어플을 통해 지문을 등록할 때마다 안심번호가 갱신되고, 외부인은 차량에 부탁된 QR 코드를 통해 사용자에게 연락할 수 있다.
 <br><br>
 ## 프로세스
-Code 파일은 main.ipynb와 Server.ipynb 두 가지로 이루어져있으며, main은 사용자가 이용하는 APP이고, Server는 서버 역할을 한다. <br>
+Code 파일은 main.ipynb와 Server.ipynb 두 가지로 이루어져 있으며, main은 사용자가 이용하는 APP이고, Server는 서버 역할을 한다. <br>
 
 - 동작 과정
 <img width="600" src="https://github.com/user-attachments/assets/1aade12a-ffaa-4541-966a-8016ea5f2103">
